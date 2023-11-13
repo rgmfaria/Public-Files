@@ -3,3 +3,4 @@ RARLab.WinRAR
 Google.Chrome
 Notepad++.Notepad++
 TeamViewer.TeamViewer
+7zip.7zip
