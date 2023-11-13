@@ -6,3 +6,4 @@ TeamViewer.TeamViewer
 7zip.7zip
 Mozilla.Firefox
 Cisco.Jabber
+Zoom.Zoom
