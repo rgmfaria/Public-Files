@@ -7,3 +7,6 @@ TeamViewer.TeamViewer
 Mozilla.Firefox
 Cisco.Jabber
 Zoom.Zoom
+Adobe.Acrobat.Reader.32-bit
+Adobe.Acrobat.Reader.64-bit
+
