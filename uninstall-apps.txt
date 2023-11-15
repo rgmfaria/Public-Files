@@ -1,12 +1,11 @@
 Version 1.0
-RARLab.WinRAR
-Google.Chrome
-Notepad++.Notepad++
-TeamViewer.TeamViewer
 7zip.7zip
-Mozilla.Firefox
-Cisco.Jabber
-Zoom.Zoom
 Adobe.Acrobat.Reader.32-bit
 Adobe.Acrobat.Reader.64-bit
-
+Cisco.Jabber
+Google.Chrome
+Mozilla.Firefox
+Notepad++.Notepad++
+RARLab.WinRAR
+TeamViewer.TeamViewer
+Zoom.Zoom
