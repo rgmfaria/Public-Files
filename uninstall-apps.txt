@@ -9,9 +9,9 @@ Microsoft.VCRedist.2015+.x64
 Mozilla.Firefox
 Notepad++.Notepad++
 Oracle.JavaRuntimeEnvironment
-TeamViewer.TeamViewer
-TeamViewer.TeamViewer.Host
+RARLab.WinRAR
 RealVNC.VNCServer
 RealVNC.VNCViewer
-RARLab.WinRAR
+TeamViewer.TeamViewer
+TeamViewer.TeamViewer.Host
 Zoom.Zoom
