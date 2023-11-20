@@ -1,11 +1,17 @@
-Version 1.1
+Version 1.2
 7zip.7zip
 Adobe.Acrobat.Reader.32-bit
 Adobe.Acrobat.Reader.64-bit
 Cisco.Jabber
 Google.Chrome
+Microsoft.VCRedist.2013.x86
+Microsoft.VCRedist.2015+.x64
 Mozilla.Firefox
 Notepad++.Notepad++
-RARLab.WinRAR
+Oracle.JavaRuntimeEnvironment
 TeamViewer.TeamViewer
+TeamViewer.TeamViewer.Host
+RealVNC.VNCServer
+RealVNC.VNCViewer
+RARLab.WinRAR
 Zoom.Zoom
