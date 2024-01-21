@@ -1,9 +1,11 @@
-Version 1.4
+Version 1.5
 7zip.7zip
 Adobe.Acrobat.Reader.32-bit
 Adobe.Acrobat.Reader.64-bit
+AnyDeskSoftwareGmbH.AnyDesk
 Cisco.Jabber
 Google.Chrome
+Lenovo.SystemUpdate
 Microsoft.VCRedist.2005.x64
 Microsoft.VCRedist.2005.x86
 Microsoft.VCRedist.2008.x64
@@ -18,6 +20,7 @@ Microsoft.VCRedist.2015+.x64
 Microsoft.VCRedist.2015+.x86
 Mozilla.Firefox
 Notepad++.Notepad++
+PuTTY.PuTTY
 RARLab.WinRAR
 TeamViewer.TeamViewer
 TeamViewer.TeamViewer.Host
