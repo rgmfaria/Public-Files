@@ -21,4 +21,5 @@ Notepad++.Notepad++
 RARLab.WinRAR
 TeamViewer.TeamViewer
 TeamViewer.TeamViewer.Host
+VMware.WorkstationPlayer
 Zoom.Zoom
